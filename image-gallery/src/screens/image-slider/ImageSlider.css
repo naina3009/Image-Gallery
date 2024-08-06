@@ -1,0 +1,13 @@
+
+
+.slider{
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(250, 222, 185);
+}
+.head{
+   display: flex;
+   justify-content: center;
+   color: rgb(42, 61, 165);
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
